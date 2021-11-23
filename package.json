@@ -1,7 +1,7 @@
 {
   "name": "AccountBalances",
   "version": "1.0.0",
-  "description": "",
+  "description": "tutorials-account-balances by i1vanov",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "elenamedve37",
+  "author": "ilia",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^6",
